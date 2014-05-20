@@ -1,0 +1,16 @@
+.space{
+	display: inline-block;
+	margin: 2px;
+	width: 50px;
+	height: 50px;
+	background-color: gray;
+	color:white;
+	font-size: 15pt;
+	background-image: none;
+}
+
+.click {
+
+}
+
+.row{clear:both;}
